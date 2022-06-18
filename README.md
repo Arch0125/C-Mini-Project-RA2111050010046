@@ -1,1 +1,1 @@
-Basic Student Data Storge Management System using File handling project in C.
+Basic Student Data Storage Management System using File handling project in C.
